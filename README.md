@@ -13,5 +13,6 @@ Logs:
 Thanks for using/reading this! For questions contact me on discord! More info on my site: www.lowie.c1.biz
 
 Socials:
-    * Discord: Lowie Eeturr#4323;
-    * Github: xLowie;
+
+* Discord: Lowie Eeturr#4323;
+* Github: xLowie.
