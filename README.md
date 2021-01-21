@@ -14,5 +14,5 @@ Thanks for using/reading this! For questions contact me on discord! More info on
 
 Socials:
 
-* Discord: xLowie#4323;
-* Github: xLowie.
+* Discord: lowie#4323,
+* Github: Lowie8192.
