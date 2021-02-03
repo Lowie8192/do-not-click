@@ -10,9 +10,9 @@ Logs:
 * Change 2: I got a tip from LinuxMint4Ever, so i changed "shutdown -s" to "shutdown /h".
 * Change 3: Today i fixed the echo's after the shutdown function. I Also updated the README. 
 
-Thanks for using/reading this! For questions contact me on discord! More info on my site: https://Lowie8192.github.io/website/www/.
+Thanks for using/reading this! For questions contact me on discord! More info on my site: https://Lowie8192.github.io/website/www/ or http://lowie.c1.biz/.
 
 Socials:
 
-* Discord: lowie#4323,
+* Discord: Lowie8192#4323,
 * Github: Lowie8192.
